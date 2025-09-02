@@ -12,7 +12,7 @@ Turn plain English into SQL queries and get live results — with conversation m
 * 🧩 **LangChain SQL agent**: inspects schema, drafts safe queries, executes, and explains.
 * ⚡ **LLMs**: swap between **OpenAI** and **Groq** via env vars.
 
-Link:
+
 ---
 
 ## Quick Start
